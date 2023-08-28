@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right, #654ea3, #eaafc8);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+h1 {
+    color: rgb(243, 189, 225);
+    font-family: 'Borel', cursive;
+}
+
+td :hover {
+    color: rgb(186, 90, 205);
+    background-color: antiquewhite;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+}

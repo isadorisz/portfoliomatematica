@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to right, #1c92d2, #f2fcfe);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+h1 {
+    color: darkslateblue;
+    font-family: 'Borel', cursive;
+}
+
+h2 {
+    color: #a4dfff;
+}
+
+td :hover {
+    color: rgb(85, 143, 206);
+    background-color: rgb(193, 240, 237);
+    font-size: larger;
+}
+
+.img-container {
+    text-align: center;
+}
+
+#titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#nome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}

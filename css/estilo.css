@@ -1,0 +1,45 @@
+h2 {
+    color: mistyrose;
+}
+
+body {
+    background-image: linear-gradient(to right, #c779d0, #feac5e, #4bc0c8);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+td :hover {
+    background-color: rgb(235, 229, 230);
+    color: palevioletred;
+    font-size: larger;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(128, 193, 204), rgb(255, 249, 255));
+    -webkit-background-clip: text;
+    color: transparent;
+    width: fit-content;
+    font-family: 'Borel', cursive;
+}
+
+#titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-container {
+    text-align: center;
+}
+
+#nome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

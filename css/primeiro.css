@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #fbd3e9, #bb377d);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+h1 {
+    color: purple;
+    font-family: 'Borel', cursive;
+}
+
+h2 {
+    color: mediumvioletred;
+}
+
+td :hover {
+    color: slateblue;
+    background-color: antiquewhite;
+    font-size: larger;
+}
+
+
+#titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#nome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
